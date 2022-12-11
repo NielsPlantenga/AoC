@@ -1,6 +1,6 @@
 ﻿using Baksoft.AoC;
 
-string input = File.ReadAllText("Input/day9.txt");
-Day9 day = new Day9();
+string input = File.ReadAllText("Input/day11.txt");
+Day11 day = new();
 day.Part1(input);
 day.Part2(input);
